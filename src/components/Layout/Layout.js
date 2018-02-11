@@ -4,6 +4,7 @@ import styles from './Layout.css';
 
 const layout = (props) => (
     <Auxiliar>
+        <p className={styles.Temp}><i class="fa fa-spinner" aria-hidden="true"></i> Under construction</p>
         <div>Toolbar, SideDrawer, Backdrop</div>
         <main className={styles.Content}>
             {props.children}

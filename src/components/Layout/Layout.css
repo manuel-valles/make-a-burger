@@ -1,3 +1,10 @@
 .Content {
     margin-top: 20px;
 }
+.Temp{
+    color: red;
+    text-align: right;
+    font-size: .75rem;
+    font-style: italic;
+    padding-right: 10px;
+}
